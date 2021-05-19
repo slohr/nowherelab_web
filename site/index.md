@@ -8,6 +8,8 @@ socialImage: ""
 
 An 11ty starter kit designed to help get the lab website off the ground.
 
+It was adapted from [Supermaya](https://github.com/MadeByMike/supermaya) by Mike Riethmuller.
+
 The hope is that lab members can contribute to this site in a
 distributed way.
 
