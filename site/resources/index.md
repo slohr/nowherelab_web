@@ -6,6 +6,7 @@ title: Resources
 ## Group Documents
 
   * [Code of Conduct](code_of_conduct)
+  * [Website Intro](2021_05_18_nowherelab_website.pdf)
 
 ## Tutorials
 
