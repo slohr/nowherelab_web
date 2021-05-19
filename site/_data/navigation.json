@@ -24,6 +24,11 @@
       "text": "Feed",
       "url": "/feed.xml",
       "external": true
+    },
+    {
+      "text": "Resources",
+      "url": "/resources",
+      "external": false
     }
   ]
 }
