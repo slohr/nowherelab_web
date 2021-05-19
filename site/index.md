@@ -6,6 +6,8 @@ allPostsText: See all posts
 socialImage: ""
 ---
 
+This is the Nowhere Lab website! Anyone can contribute, just click 'Github' above to fork the repository and make a pull request!
+
 An 11ty starter kit designed to help get the lab website off the ground.
 
 It was adapted from [Supermaya](https://github.com/MadeByMike/supermaya) by Mike Riethmuller.
