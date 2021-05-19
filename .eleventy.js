@@ -48,6 +48,7 @@ module.exports = function(config) {
 
   // Passthrough
   config.addPassthroughCopy({ "site/static": "/" });
+  config.addPassthroughCopy("**/*.pdf");
 
   // Plugins
   config.addPlugin(rssPlugin);
