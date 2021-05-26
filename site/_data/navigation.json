@@ -26,6 +26,11 @@
       "external": true
     },
     {
+      "text": "Members",
+      "url": "/members",
+      "external": false
+    },
+    {
       "text": "Resources",
       "url": "/resources",
       "external": false
