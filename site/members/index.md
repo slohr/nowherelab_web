@@ -19,3 +19,6 @@ title: Members
 [Guilherme D. Kolinger](https://twitter.com/guikolinger)
 
 [Priya Silverstein](https://twitter.com/priyasilverst)
+
+
+Please note that this is not a full list of all members. All members can add themselves by making a Github pull request. If you have any questions on how to do this, feel free to ask in the Nowhere Lab Slack
