@@ -7,6 +7,7 @@ title: Resources
 
   * [Code of Conduct](code_of_conduct)
   * [Website Intro](2021_05_18_nowherelab_website.pdf)
+  * [PhD Survival Guide](NowhereLab_PhD_Survival_Guide.pdf)
 
 ## Tutorials
 
