@@ -17,7 +17,7 @@ We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a 
 
 **Weekly meetings**
 
-We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. Currently, July-September meetings are  held every Wednesday at 1 pm BST and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to).
+We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. October-December meetings are held every Monday at 1 pm BST and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to).
 
 **Slack channel**
 
