@@ -3,7 +3,7 @@ layout: "layouts/home.njk"
 title: Welcome to Nowhere Lab!
 postsHeading: Latest posts
 allPostsText: See all posts
-socialImage: ""
+socialImage: Nowhere Lab logo.png
 ---
 We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a lab but would like the lab meeting experience. Target audience includes but is absolutely not limited to:
 - New faculty who have no one in their lab yet
