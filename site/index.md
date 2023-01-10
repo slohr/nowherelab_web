@@ -3,7 +3,7 @@ layout: "layouts/home.njk"
 title: Welcome to Nowhere Lab!
 postsHeading: Latest posts
 allPostsText: See all posts
-socialImage: ""
+socialImage: Nowhere Lab logo.png
 ---
 We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a lab but would like the lab meeting experience. Target audience includes but is absolutely not limited to:
 - New faculty who have no one in their lab yet
@@ -17,7 +17,7 @@ We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a 
 
 **Weekly meetings**
 
-We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. October-December meetings are held every Monday at 1 pm BST and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to).
+We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. January-March meetings are held every Tuesday at 1 pm GMT and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to).
 
 **Slack channel**
 
