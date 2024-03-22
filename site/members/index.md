@@ -2,6 +2,9 @@
 layout: "layouts/page.njk"
 title: Members
 ---
+## Our Members
+
+<div style="min-height:380px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZNe0j/embed.js?v=2" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZNe0j/full.png" alt="" /></noscript></div>
 
 ## Lab members
 
