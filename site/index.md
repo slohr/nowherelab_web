@@ -5,6 +5,9 @@ postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: Nowhere Lab logo.png
 ---
+
+<div style="min-height:335px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZNe0j/embed.js?v=6" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZNe0j/full.png" alt="" /></noscript></div>
+
 We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a lab but would like the lab meeting experience. Target audience includes but is absolutely not limited to:
 - New faculty who have no one in their lab yet
 - Ex-academics who now work in industry
