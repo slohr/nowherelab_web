@@ -2,9 +2,6 @@
 layout: "layouts/page.njk"
 title: Members
 ---
-## Our Members
-
-<div style="min-height:380px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZNe0j/embed.js?v=2" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZNe0j/full.png" alt="" /></noscript></div>
 
 ## Lab members
 
@@ -16,8 +13,6 @@ title: Members
 [Dwayne Lieck](https://twitter.com/dwayne_lieck)
 
 [Ene Ayegba ](https://twitter.com/eneayegba_)
-
-[Freda Wan](https://twitter.com/brkfst42)
 
 [Guilherme D. Kolinger](https://twitter.com/guikolinger)
 
