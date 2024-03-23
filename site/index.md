@@ -6,7 +6,7 @@ allPostsText: See all posts
 socialImage: Nowhere Lab logo.png
 ---
 
-<div style="min-height:335px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZNe0j/embed.js?v=6" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZNe0j/full.png" style="width:800px" alt="World map showing the global locations of Nowhere Lab members" /></noscript></div>
+<div style="min-height:335px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZNe0j/embed.js?v=6" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZNe0j/full.png" style="display:block; width:80%; margin:auto;" alt="World map showing the global locations of Nowhere Lab members" /></noscript></div>
 
 We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a lab but would like the lab meeting experience. Target audience includes but is absolutely not limited to:
 - New faculty who have no one in their lab yet
