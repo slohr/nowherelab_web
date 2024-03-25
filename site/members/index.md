@@ -14,8 +14,6 @@ title: Members
 
 [Ene Ayegba ](https://twitter.com/eneayegba_)
 
-[Freda Wan](https://twitter.com/brkfst42)
-
 [Guilherme D. Kolinger](https://twitter.com/guikolinger)
 
 [Priya Silverstein](https://twitter.com/priyasilverst)
