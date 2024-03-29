@@ -5,11 +5,7 @@
       "url": "/",
       "external": false
     },
-    {
-      "text": "Posts",
-      "url": "/posts",
-      "external": false
-    },
+
     {
       "text": "Twitter",
       "url": "https://twitter.com/theNowhereLab",
@@ -20,11 +16,7 @@
       "url": "https://github.com/slohr/nowherelab_web",
       "external": true
     },
-    {
-      "text": "Feed",
-      "url": "/feed.xml",
-      "external": true
-    },
+
     {
       "text": "Members",
       "url": "/members",
