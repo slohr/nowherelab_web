@@ -2,9 +2,11 @@
   <header class="l-container">
     <div class="l-jumbo">
       <h1>{{ introHeading }}</h1>
+      {% if memberMap %}
+        <div class="l-stack l-map">{{ memberMap | safe }}</div>
+      {% endif %}
       {% if introSummary %}
-        <div class="l-stack l-map">{{ introSummary | safe }}</div>
-        
+        <div class="l-stack l-measure">{{ introSummary | safe }}</div>
       {% endif %}
     </div>
   </header>
