@@ -25,6 +25,13 @@
   margin-left: 0.5rem;
 }
 
+.arrow-size {
+  width: 24px; // Flex doesn't correctly calc the width of SVG viewbox
+  flex-basis: 24px;
+  margin-left: 0.5rem;
+}
+
+
 .l-pagination-link--left > *:first-child {
   width: 24px; // Flex doesn't correctly calc the width of SVG viewbox
   flex-basis: 24px;
