@@ -6,7 +6,7 @@ allPostsText: See all posts
 socialImage: Nowhere Lab logo.png
 ---
 
-<div style="min-height:458px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZNe0j/embed.js?v=7" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZNe0j/full.png" alt="" /></noscript></div></div>
+<div style="min-height:500px"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/ZNe0j/embed.js?v=7" charset="utf-8"></script><noscript><img src="https://datawrapper.dwcdn.net/ZNe0j/full.png" alt="" /></noscript></div></div>
 &nbsp; 
 
 We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a lab but would like the lab meeting experience. Target audience includes but is absolutely not limited to:
