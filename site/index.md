@@ -19,27 +19,18 @@ We are Nowhere Lab. Anyone from any field is welcome to join who doesn't have a 
 
 **To join, email priyasilverstein at gmail.com*
 
+**Origin story**
+
+Nowhere Lab was started in 2020 as an online lab community. When Priya moved from a traditional lab-based postdoc to two alt-ac (alternative academia) roles, [they missed having a lab community, and thought others might feel the same](https://x.com/priyasilverst/status/1338923077988732930). Nowhere Lab now has over 200 members, so clearly others did!
+
+Our name is inspired by the Beatles song [_Nowhere Man_](https://www.youtube.com/watch?v=8scSwaKbE64). From the film [_Yellow Submarine_](https://en.wikipedia.org/wiki/Yellow_Submarine_(film)), the song refers to the character Jeremy Hillary Boob, PhD. a self-described _"eminent physicist, polyglot classicist, prize-winning botanist, hard-biting satirist, talented pianist, good dentist too"_. Reviewing his own works, he states _"it's (his own) policy to never read them"_. Jeremy is always busy with multiple projects: _“so little time, so much to know”_!
+
+You can read more about Nowhere Lab in this [Educator’s Corner post for FORRT](https://forrt.org/educators-corner/013-introducing-nowhere-lab/) (a Nowhere Lab partner).
+
 **Weekly meetings**
 
-We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. April-June 2024 meetings are held every Tuesday at 3pm GMT and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to).
+We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. April-June 2024 meetings are held every Tuesday at 3pm GMT and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to). You can check out our [calendar](https://docs.google.com/document/d/1iuvYmKm3uU4wT-Rd8FmtJPW9Bf18wmXOqz7n2dikPps/edit) here to see what we’re up to each week!
 
 **Slack channel**
 
 We have a Slack channel which is the base for our community -- somewhere members can interact even if they're unable to attend meetings. Here we share resources, memes, support, and more.
-
-**How to contribute to this website**
-
-Anyone can contribute, just click 'Github', fork the repository, make changes, and make a pull request. 
-
-Feel free to add blog-style posts under 'Posts', e.g. your Nowhere Lab origin story, a tutorial on something you've learned and want to share, pictures you've collated of your plants -- anything!
-
-This website was adapted from [Supermaya](https://github.com/MadeByMike/supermaya) by Mike Riethmuller.
-
-<ul>
-    <li>
-        <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya + Keystone</a> <small>(add user-generated content)</small>
-    </li>
-    <li>
-        <a href="https://app.netlify.com/start/deploy?repository=https://github.com/MadeByMike/supermaya">Deploy Supermaya to Netlify</a>
-    </li>
-</ul>
