@@ -1,4 +1,4 @@
-﻿﻿---
+---
 layout: "layouts/home.njk"
 title: Welcome to Nowhere Lab!
 postsHeading: Latest posts
