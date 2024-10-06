@@ -29,7 +29,7 @@ You can read more about Nowhere Lab in this [Educator’s Corner post for FORRT]
 
 **Weekly meetings**
 
-We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. July-Sep 2024 meetings are held every Monday at 3pm (UK) and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to). You can check out our [calendar](https://docs.google.com/document/d/1iuvYmKm3uU4wT-Rd8FmtJPW9Bf18wmXOqz7n2dikPps/edit) here to see what we’re up to each week!
+We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. Oct-Dec 2024 meetings are held every Friday at 3.30-4.30pm (UK) and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to). You can check out our [calendar](https://docs.google.com/document/d/1iuvYmKm3uU4wT-Rd8FmtJPW9Bf18wmXOqz7n2dikPps/edit) here to see what we’re up to each week!
 
 **Slack channel**
 
