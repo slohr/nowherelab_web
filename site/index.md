@@ -29,8 +29,9 @@ You can read more about Nowhere Lab in this [Educator’s Corner post for FORRT]
 
 **Weekly meetings**
 
-We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. July-September 2025 meetings are held every Wednesday from 3.30-4.30pm (UK) and last approximately 1 hour but are sometimes slightly longer (you're welcome to leave whenever you need to). You can check out our [calendar](https://docs.google.com/document/d/1iuvYmKm3uU4wT-Rd8FmtJPW9Bf18wmXOqz7n2dikPps/edit) here to see what we’re up to each week!
+We hold weekly meetings that change time every 3 months to attempt to accommodate members in different time zones. From November 2025 onwards, meetings are held TUESDAYS at 9am (UK) and THURSDAYS at 4pm (UK) and will be catch-up and co-work only, lasting approximately 1 hour. 
 
 **Slack channel**
 
 We have a Slack channel which is the base for our community -- somewhere members can interact even if they're unable to attend meetings. Here we share resources, memes, support, and more.
+
