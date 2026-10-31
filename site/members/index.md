@@ -5,7 +5,6 @@ title: Members
 
 ## Lab members
 
-
 [Anna-Lena Eckert](https://twitter.com/eckertal1)
 
 [Cecilia Zuniga-Montanez](https://twitter.com/CeciZunigaM)
@@ -26,5 +25,6 @@ title: Members
 
 [Anthony Ojukwu](https://twitter.com/DrNasirr)
 
+[Excel Ojemen](https://www.linkedin.com/in/excelojemen/)
 
 Please note that this is not a full list of all members. All members can add themselves by making a Github pull request. If you have any questions on how to do this, feel free to ask in the Nowhere Lab Slack
